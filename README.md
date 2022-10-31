@@ -6,4 +6,4 @@
 # la tecnicatura en programación, recepcionista y papá
 
 # En casa tenemos un :dog: que se accidentó pero ya está mucho mejor
-
+# Realizamos el primer commit de clase 8
